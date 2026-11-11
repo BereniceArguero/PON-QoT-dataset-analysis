@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+matplotlib
+scipy
+statsmodels
+scikit-learn
+joblib
+umap-learn
+jupyter
